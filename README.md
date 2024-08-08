@@ -122,8 +122,17 @@ This Illustrates the Analysis of Track with the Name "Shivers".📍
 This Illustrates the Analysis of 4th Most Streamed Track.📍
 ![Analysis 2](https://github.com/user-attachments/assets/762170e5-6904-4111-8996-72aba1d8e8b3)
 
+This Illustrates the Analysis of Track and Streams of the Month "February".📍
+![Analysis 6](https://github.com/user-attachments/assets/34a40fa9-06c0-48a8-b6de-86d9b7046dcc)
 
+This Illustrates the Analysis of Track and Streams of the Month "September".📍
+![Analysis 7](https://github.com/user-attachments/assets/0142c039-a646-4e4c-9230-78d10d088863)
 
+This Illustrates the Analysis of Track and Streams of the Day "Tuesday.📍
+![Analysis 8](https://github.com/user-attachments/assets/45b96df5-e979-41e1-8ada-22f19de4c44d)
+
+This Illustrates the Analysis of Track and Streams of the Day "Thursday.📍
+![Analysis 9](https://github.com/user-attachments/assets/13d6317d-d117-4259-9b45-8a6da85a4127)
 
 # Author 🙎‍♀️  
 
