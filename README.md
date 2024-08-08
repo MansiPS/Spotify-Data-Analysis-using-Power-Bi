@@ -119,12 +119,6 @@ This Illustrates the Analysis of Track and Streams of the Day "Tuesday.📍
 This Illustrates the Analysis of Track and Streams of the Day "Thursday.📍
 ![Analysis 9](https://github.com/user-attachments/assets/13d6317d-d117-4259-9b45-8a6da85a4127)
 
-This Illustrates the Analysis of Artist with the Name "Imagine Dragons".📍
-![Analysis 5](https://github.com/user-attachments/assets/a3bf10fd-3012-43f0-a4f0-f542b1a94c91)
-
-This Illustrates the Analysis of Artist with the Name "Justin Bieber".📍
-![Analysis 4](https://github.com/user-attachments/assets/237a3fdd-f4ea-44ca-8ba1-640f9b8266ed)
-
 This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
 ![Analysis 1](https://github.com/user-attachments/assets/5ee35659-00d5-4968-81da-c35aac25fd37)
 
@@ -134,7 +128,11 @@ This Illustrates the Analysis of Track with the Name "Shivers".📍
 This Illustrates the Analysis of 4th Most Streamed Track.📍
 ![Analysis 2](https://github.com/user-attachments/assets/762170e5-6904-4111-8996-72aba1d8e8b3)
 
+This Illustrates the Analysis of Artist with the Name "Imagine Dragons".📍
+![Analysis 5](https://github.com/user-attachments/assets/a3bf10fd-3012-43f0-a4f0-f542b1a94c91)
 
+This Illustrates the Analysis of Artist with the Name "Justin Bieber".📍
+![Analysis 4](https://github.com/user-attachments/assets/237a3fdd-f4ea-44ca-8ba1-640f9b8266ed)
 
 # Author 🙎‍♀️  
 
