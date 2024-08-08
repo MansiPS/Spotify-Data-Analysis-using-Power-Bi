@@ -122,10 +122,10 @@ This Illustrates the Analysis of Track and Streams of the Day "Thursday.📍
 This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
 ![Analysis 1](https://github.com/user-attachments/assets/5ee35659-00d5-4968-81da-c35aac25fd37)
 
-This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
+This Illustrates the Analysis of Songs Released between "1st January 2016" to "31st December 2016".📍
 ![Analysis 2](https://github.com/user-attachments/assets/c76f05c3-ad18-4f35-81fd-a341d471f27f)
 
-This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
+This Illustrates the Analysis of Songs Released between "1st January 1996" to "31st December 2001".📍
 ![Analysis 3](https://github.com/user-attachments/assets/7d0d0896-452b-4493-b696-d6d755854104)
 
 # Author 🙎‍♀️  
